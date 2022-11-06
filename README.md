@@ -1,5 +1,7 @@
 # William Sena here ✌
 
+![william sena family](/images/willsena-family.jpg)
+
 I'm a programmer, a husband, a father, and a hobby baker. I work for a marketplace company as an IT specialist. I code and blog at willsena.dev to follow my purpose, sharing my content and opinion.
 
 My dad is an expert in computers. My first computer experience began with my PC 486, which ran Windows 3.11, then he introduced me to Linux using CD Distributions like Conectiva, Mandrake, Red Hat, Slackware, and Kurumin.
