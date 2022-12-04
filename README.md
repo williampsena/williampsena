@@ -19,6 +19,10 @@ That's my contact list.
 
 # Latest Blog posts:
 
+- [Having a date with Kong, the most popular API gateway in the world](https://willsena.dev/having-a-date-with-kong-the-most-popular-api-gateway-in-the-world/)
+- [Strategies for Rotating Docker Logs
+](https://willsena.dev/strategies-for-rotating-docker-logs/)
+- [Using ASDF to Manage Programming Language Runtime Versions](https://willsena.dev/using-asdf-to-manage-programming-language-runtime-versions/)
 - [Unlock NGINX hidden powers with Javascript module (NJS)](https://willsena.dev/unlock-nginx-hidden-powers-with-javascript-module-njs/)
 - [Handling Docker Volumes Permissions without root privilege](https://willsena.dev/handling-docker-volumes-permissions-without-root-privilege/)
 - [Run your first Ansible playbook](https://willsena.dev/run-your-first-ansible-playbook/)
