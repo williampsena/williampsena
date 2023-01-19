@@ -19,6 +19,7 @@ That's my contact list.
 
 # Latest Blog posts:
 
+- [Top Reasons to Use Linux and Why Should You?](https://willsena.dev/top-reasons-and-why-should-you-use-linux/)
 - [Having a date with Kong, the most popular API gateway in the world](https://willsena.dev/having-a-date-with-kong-the-most-popular-api-gateway-in-the-world/)
 - [Strategies for Rotating Docker Logs
 ](https://willsena.dev/strategies-for-rotating-docker-logs/)
