@@ -20,6 +20,7 @@ That's my contact list.
 
 # Latest Blog posts:
 
+- [Creating TypeScript React Components with Parcel Bundler](https://willsena.dev/creating-typescript-react-components-with-parcel-bundler/)
 - [Top Reasons to Use Linux and Why Should You?](https://willsena.dev/top-reasons-and-why-should-you-use-linux/)
 - [Having a date with Kong, the most popular API gateway in the world](https://willsena.dev/having-a-date-with-kong-the-most-popular-api-gateway-in-the-world/)
 - [Strategies for Rotating Docker Logs
