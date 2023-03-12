@@ -2,7 +2,7 @@
 
 ![william sena family](/images/willsena-family.jpg)
 
-I'm a programmer, a husband, a father, and a hobby baker. I work for a marketplace company as an IT specialist. I code and blog at willsena.dev to follow my purpose, sharing my content and opinion.
+I'm a software engineer, a husband, a father, and a hobby baker. I work for a marketplace company as an IT specialist. I code and blog at willsena.dev to follow my purpose, sharing my content and opinion.
 
 My dad is an expert in computers. My first computer experience began with my PC 486, which ran Windows 3.11, then he introduced me to Linux using CD Distributions like Conectiva, Mandrake, Red Hat, Slackware, and Kurumin.
 
@@ -20,6 +20,9 @@ That's my contact list.
 
 # Latest Blog posts:
 
+- [How to Run Secure Pods with Podman](https://willsena.dev/how-to-run-secure-pods-with-podman/)
+- [JavaScript: What is an Immediately Invoked Function Expression (IIFE)?](https://willsena.dev/javascript-what-is-an-immediately-invoked-function-expression-iife/)
+- [The Magic of Implicit and Explicit C# Conversion Operators: How to Handle It](https://willsena.dev/the-magic-of-implicit-and-explicit-c-conversion-operators-how-to-handle-it/)
 - [Creating TypeScript React Components with Parcel Bundler](https://willsena.dev/creating-typescript-react-components-with-parcel-bundler/)
 - [Top Reasons to Use Linux and Why Should You?](https://willsena.dev/top-reasons-and-why-should-you-use-linux/)
 - [Having a date with Kong, the most popular API gateway in the world](https://willsena.dev/having-a-date-with-kong-the-most-popular-api-gateway-in-the-world/)
