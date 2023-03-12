@@ -26,8 +26,7 @@ That's my contact list.
 - [Creating TypeScript React Components with Parcel Bundler](https://willsena.dev/creating-typescript-react-components-with-parcel-bundler/)
 - [Top Reasons to Use Linux and Why Should You?](https://willsena.dev/top-reasons-and-why-should-you-use-linux/)
 - [Having a date with Kong, the most popular API gateway in the world](https://willsena.dev/having-a-date-with-kong-the-most-popular-api-gateway-in-the-world/)
-- [Strategies for Rotating Docker Logs
-](https://willsena.dev/strategies-for-rotating-docker-logs/)
+- [Strategies for Rotating Docker Logs](https://willsena.dev/strategies-for-rotating-docker-logs/)
 - [Using ASDF to Manage Programming Language Runtime Versions](https://willsena.dev/using-asdf-to-manage-programming-language-runtime-versions/)
 - [Unlock NGINX hidden powers with Javascript module (NJS)](https://willsena.dev/unlock-nginx-hidden-powers-with-javascript-module-njs/)
 - [Handling Docker Volumes Permissions without root privilege](https://willsena.dev/handling-docker-volumes-permissions-without-root-privilege/)
