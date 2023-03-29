@@ -20,6 +20,11 @@ That's my contact list.
 
 # Latest Blog posts:
 
+- [Use font ligatures to enhance your code editor or IDE](https://willsena.dev/use-font-ligatures-to-enhance-your-code-editor-or-ide/)
+- [Understanding load balancers through practical examples](https://willsena.dev/understanding-load-balancers-through-practical-examples/)
+- [You must use Prettier as the code format for your TypeScript or JavaScript project](https://willsena.dev/you-must-use-prettier-as-the-code-format-for-your-typescript-or-javascript-project/)
+- [Building a Squid Proxy Container to test NPM with HTTP Proxy](https://willsena.dev/building-a-squid-proxy-container-to-test-npm-with-http-proxy/)
+- [O que é JSON Web Token (JWT)?](https://willsena.dev/o-que-sao-json-web-tokens-jwt/)
 - [How to Run Secure Pods with Podman](https://willsena.dev/how-to-run-secure-pods-with-podman/)
 - [JavaScript: What is an Immediately Invoked Function Expression (IIFE)?](https://willsena.dev/javascript-what-is-an-immediately-invoked-function-expression-iife/)
 - [The Magic of Implicit and Explicit C# Conversion Operators: How to Handle It](https://willsena.dev/the-magic-of-implicit-and-explicit-c-conversion-operators-how-to-handle-it/)
