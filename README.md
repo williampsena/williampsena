@@ -20,6 +20,9 @@ That's my contact list.
 
 # Latest Blog posts:
 
+- [Creating amazing games using Phaser and Vue (Nuxt/Vite)](https://willsena.dev/creating-amazing-games-using-phaser-and-vue-nuxt-vite)
+- [10 pontos essenciais para testes técnicos](https://willsena.dev/10-pontos-essencias-testes-tecnicos/)
+- [JavaScript bind() function: How to Handle Context](https://willsena.dev/javascript-bind-function-how-to-handle-context/)
 - [Use font ligatures to enhance your code editor or IDE](https://willsena.dev/use-font-ligatures-to-enhance-your-code-editor-or-ide/)
 - [Understanding load balancers through practical examples](https://willsena.dev/understanding-load-balancers-through-practical-examples/)
 - [You must use Prettier as the code format for your TypeScript or JavaScript project](https://willsena.dev/you-must-use-prettier-as-the-code-format-for-your-typescript-or-javascript-project/)
