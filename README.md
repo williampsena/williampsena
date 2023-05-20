@@ -20,6 +20,8 @@ That's my contact list.
 
 # Latest Blog posts:
 
+- [Building Kubernetes-style pods with Podman](https://willsena.dev/building-kubernetes-style-pods-with-podman/)
+- [Using K3s to create a local Kubernetes environment](https://willsena.dev/using-k3s-to-create-a-local-kubernetes-environment/)
 - [Creating amazing games using Phaser and Vue (Nuxt/Vite)](https://willsena.dev/creating-amazing-games-using-phaser-and-vue-nuxt-vite)
 - [10 pontos essenciais para testes técnicos](https://willsena.dev/10-pontos-essencias-testes-tecnicos/)
 - [JavaScript bind() function: How to Handle Context](https://willsena.dev/javascript-bind-function-how-to-handle-context/)
