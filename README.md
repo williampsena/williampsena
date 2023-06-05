@@ -20,6 +20,9 @@ That's my contact list.
 
 # Latest Blog posts:
 
+- [The difference between the COPY and ADD commands in a Dockerfile](https://willsena.dev/the-difference-between-the-copy-and-add-commands-in-a-dockerfile/)
+- [Managing virtual machines with Vagrant](https://willsena.dev/managing-virtual-machines-with-vagrant/)
+- [How to Build and Push a Container Image](https://willsena.dev/how-to-build-and-push-a-container-image/)
 - [Building Kubernetes-style pods with Podman](https://willsena.dev/building-kubernetes-style-pods-with-podman/)
 - [Using K3s to create a local Kubernetes environment](https://willsena.dev/using-k3s-to-create-a-local-kubernetes-environment/)
 - [Creating amazing games using Phaser and Vue (Nuxt/Vite)](https://willsena.dev/creating-amazing-games-using-phaser-and-vue-nuxt-vite)
