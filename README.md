@@ -20,6 +20,12 @@ That's my contact list.
 
 # Latest Blog posts:
 
+- [Stop making assumptions! Extract metrics from Kong API Gateway using Grafana and Prometheus](https://willsena.dev/stop-making-assumptions-extract-metrics-from-kong-api-gateway-using-grafana-and-prometheus/)
+- [Movendo BOOT EFI para sua nova partição](https://willsena.dev/movendo-boot-efi-para-sua-nova-particao/)
+- [How to use Vanilla JavaScript to listen for and emit events](https://willsena.dev/how-to-use-vanilla-javascript-to-listen-for-and-emit-events/)
+- [Understanding the ELK Stack with Practical Examples](https://willsena.dev/understanding-the-elk-stack-with-practical-examples/)
+- [How can I add users in a Dockerfile?](https://willsena.dev/how-can-i-add-users-in-a-dockerfile/)
+- [Implementando Linked List](https://willsena.dev/implementando-linkedlist/)
 - [The difference between the COPY and ADD commands in a Dockerfile](https://willsena.dev/the-difference-between-the-copy-and-add-commands-in-a-dockerfile/)
 - [Managing virtual machines with Vagrant](https://willsena.dev/managing-virtual-machines-with-vagrant/)
 - [How to Build and Push a Container Image](https://willsena.dev/how-to-build-and-push-a-container-image/)
