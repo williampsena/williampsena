@@ -17,6 +17,13 @@ That's my contact list.
 * <img src="./images/github.svg" width="15rem" /> https://github.com/williampsena
 * <img src="./images/linkedin.svg" width="15rem" /> https://br.linkedin.com/in/senawilliam
 
+# Status
+
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=williampsena&show_icons=true&include_all_commits=true&hide_border=true&hide=issues,contribs">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=williampsena&layout=compact&hide_border=true&langs_count=10&hide=html,css">
+</p>
+
 
 # Latest Blog posts:
 
