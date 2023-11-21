@@ -27,6 +27,9 @@ That's my contact list.
 
 # Latest Blog posts:
 
+- [Exploring Awesome WM, my preferred window manager](https://willsena.dev/exploring-awesome-wm-my-preferred-window-manager/?r=github)
+- [Using the graceful shutdown approach to dispose of application](https://willsena.dev/using-graceful-shutdown-approach-to-dispose-of-applications/)
+- [Turbinando a instalação dos pacotes NPM com o PNPM](https://willsena.dev/turbinando-a-instalacao-dos-pacotes-npm-com-pnpm/)
 - [Stop making assumptions! Extract metrics from Kong API Gateway using Grafana and Prometheus](https://willsena.dev/stop-making-assumptions-extract-metrics-from-kong-api-gateway-using-grafana-and-prometheus/)
 - [Movendo BOOT EFI para sua nova partição](https://willsena.dev/movendo-boot-efi-para-sua-nova-particao/)
 - [How to use Vanilla JavaScript to listen for and emit events](https://willsena.dev/how-to-use-vanilla-javascript-to-listen-for-and-emit-events/)
