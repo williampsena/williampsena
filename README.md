@@ -27,6 +27,8 @@ That's my contact list.
 
 # Latest Blog posts:
 
+- [Por onde eu começo! Um café funcional com Elixir](https://willsena.dev/por-onde-eu-comeco-um-cafe-funcional-com-elixir/)
+- [The steps to producing a legacy system](https://willsena.dev/the-steps-to-producing-a-legacy-system/)
 - [Exploring Awesome WM, my preferred window manager](https://willsena.dev/exploring-awesome-wm-my-preferred-window-manager/?r=github)
 - [Using the graceful shutdown approach to dispose of application](https://willsena.dev/using-graceful-shutdown-approach-to-dispose-of-applications/)
 - [Turbinando a instalação dos pacotes NPM com o PNPM](https://willsena.dev/turbinando-a-instalacao-dos-pacotes-npm-com-pnpm/)
