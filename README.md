@@ -27,6 +27,10 @@ That's my contact list.
 
 # Latest Blog posts:
 
+- [Como gerar documentos do seu código em Go?](https://willsena.dev/como-gerar-documentos-do-seu-codigo-em-go/)
+- [Running the Traefik, my favorite Edge Router with Podman](https://willsena.dev/running-the-traefik-my-favorite-cloud-edge-router-with-podman/)
+- [Building and deploying AWS Lambda with Serverless framework in just a few of minutes - Part 2](https://willsena.dev/building-and-deploying-aws-lambda-with-serverless-framework-in-just-a-few-of-minutes-part-2/)
+- [Building and deploying AWS Lambda with Serverless framework in just a few of minutes](https://willsena.dev/building-and-deploying-aws-lambda-with-serverless-framework-in-just-a-few-of-minutes/)
 - [Por onde eu começo! Um café funcional com Elixir](https://willsena.dev/por-onde-eu-comeco-um-cafe-funcional-com-elixir/)
 - [The steps to producing a legacy system](https://willsena.dev/the-steps-to-producing-a-legacy-system/)
 - [Exploring Awesome WM, my preferred window manager](https://willsena.dev/exploring-awesome-wm-my-preferred-window-manager/?r=github)
