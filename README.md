@@ -31,7 +31,7 @@ That's my contact list.
 
 - [🇧🇷 Como o Gitleaks pode evitar o vazamento de segredos em seu repositório git](https://willsena.dev/como-o-gitleaks-pode-evitar-o-vazamento-de-segredos-em-seu-repositorio-git/)
 - [🇺🇸 Golang: How to Test Code That Exits or Crashes?](https://willsena.dev/golang-how-to-test-code-that-exits-or-crashes/)
-- [Como gerar documentos do seu código em Go?](https://willsena.dev/como-gerar-documentos-do-seu-codigo-em-go/)
+- [🇧🇷 Como gerar documentos do seu código em Go?](https://willsena.dev/como-gerar-documentos-do-seu-codigo-em-go/)
 - [🇺🇸 Running the Traefik, my favorite Edge Router with Podman](https://willsena.dev/running-the-traefik-my-favorite-cloud-edge-router-with-podman/)
 - [🇺🇸 Building and deploying AWS Lambda with Serverless framework in just a few of minutes - Part 2](https://willsena.dev/building-and-deploying-aws-lambda-with-serverless-framework-in-just-a-few-of-minutes-part-2/)
 - [🇺🇸 Building and deploying AWS Lambda with Serverless framework in just a few of minutes](https://willsena.dev/building-and-deploying-aws-lambda-with-serverless-framework-in-just-a-few-of-minutes/)
@@ -41,7 +41,7 @@ That's my contact list.
 - [🇺🇸 Using the graceful shutdown approach to dispose of application](https://willsena.dev/using-graceful-shutdown-approach-to-dispose-of-applications/)
 - [🇧🇷 Turbinando a instalação dos pacotes NPM com o PNPM](https://willsena.dev/turbinando-a-instalacao-dos-pacotes-npm-com-pnpm/)
 - [🇺🇸 Stop making assumptions! Extract metrics from Kong API Gateway using Grafana and Prometheus](https://willsena.dev/stop-making-assumptions-extract-metrics-from-kong-api-gateway-using-grafana-and-prometheus/)
-- [Movendo BOOT EFI para sua nova partição](https://willsena.dev/movendo-boot-efi-para-sua-nova-particao/)
+- [🇧🇷 Movendo BOOT EFI para sua nova partição](https://willsena.dev/movendo-boot-efi-para-sua-nova-particao/)
 - [🇺🇸 How to use Vanilla JavaScript to listen for and emit events](https://willsena.dev/how-to-use-vanilla-javascript-to-listen-for-and-emit-events/)
 - [🇺🇸 Understanding the ELK Stack with Practical Examples](https://willsena.dev/understanding-the-elk-stack-with-practical-examples/)
 - [🇺🇸 How can I add users in a Dockerfile?](https://willsena.dev/how-can-i-add-users-in-a-dockerfile/)
