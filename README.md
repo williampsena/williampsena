@@ -29,6 +29,7 @@ That's my contact list.
 
 # Latest Blog posts:
 
+- [🇺🇸 Getting Started with Traefik Middleware in k3s: A Practical Guide](https://willsena.dev/getting-started-with-traefik-middleware-in-k3s-a-practical-guide/)
 - [🇧🇷 Como o Gitleaks pode evitar o vazamento de segredos em seu repositório git](https://willsena.dev/como-o-gitleaks-pode-evitar-o-vazamento-de-segredos-em-seu-repositorio-git/)
 - [🇺🇸 Golang: How to Test Code That Exits or Crashes?](https://willsena.dev/golang-how-to-test-code-that-exits-or-crashes/)
 - [🇧🇷 Como gerar documentos do seu código em Go?](https://willsena.dev/como-gerar-documentos-do-seu-codigo-em-go/)
