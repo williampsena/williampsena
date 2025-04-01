@@ -29,6 +29,7 @@ That's my contact list.
 
 # Latest Blog posts:
 
+- [🇺🇸 Qtile: My Journey into a Fully Customized Tiling WM](https://willsena.dev/qtile-my-journey-into-a-fully-customized-tiling-wm/)
 - [🇺🇸 Getting Started with Traefik Middleware in k3s: A Practical Guide](https://willsena.dev/getting-started-with-traefik-middleware-in-k3s-a-practical-guide/)
 - [🇧🇷 Como o Gitleaks pode evitar o vazamento de segredos em seu repositório git](https://willsena.dev/como-o-gitleaks-pode-evitar-o-vazamento-de-segredos-em-seu-repositorio-git/)
 - [🇺🇸 Golang: How to Test Code That Exits or Crashes?](https://willsena.dev/golang-how-to-test-code-that-exits-or-crashes/)
