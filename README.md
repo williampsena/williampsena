@@ -26,6 +26,9 @@ That's my contact list.
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=williampsena&layout=compact&hide_border=true&langs_count=10&hide=html,css">
 </p>
 
+# Latest Videos:
+
+[🚀 Ebenezer Qtile: My Custom Tiling WM Setup Journey | Fully Customized Linux Desktop ](https://www.youtube.com/watch?v=DWHw2QyvxJE)
 
 # Latest Blog posts:
 
